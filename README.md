@@ -1,6 +1,6 @@
 # Spring Security Study Project
 
-## 프로젝트 소개
+## 프로젝트 소개 ( 시큐리티 필터 테스트 소스 )
 이 프로젝트는 Spring Security의 다양한 기능을 학습하고 테스트하기 위한 프로젝트입니다.
 
 ## 기술 스택
